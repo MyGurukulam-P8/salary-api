@@ -1,3 +1,4 @@
+
 package com.opstree.microservice.salary;
 
 import org.springframework.boot.SpringApplication;
@@ -13,7 +14,6 @@ import com.opstree.microservice.salary.model.Employee;
 
 
 
-package com.opstree.microservice.salary;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.SpringApplication;
