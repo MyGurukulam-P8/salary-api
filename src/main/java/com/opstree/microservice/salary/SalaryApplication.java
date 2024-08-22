@@ -10,7 +10,7 @@ import org.springframework.data.cassandra.repository.config.EnableCassandraRepos
 import org.springframework.context.annotation.Bean;
 import com.opstree.microservice.salary.model.Employee;
 
-#####
+
 
 
 package com.opstree.microservice.salary;
