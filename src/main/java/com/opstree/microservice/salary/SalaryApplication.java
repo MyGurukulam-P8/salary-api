@@ -10,6 +10,21 @@ import org.springframework.data.cassandra.repository.config.EnableCassandraRepos
 import org.springframework.context.annotation.Bean;
 import com.opstree.microservice.salary.model.Employee;
 
+#####
+
+
+package com.opstree.microservice.salary;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.data.cassandra.repository.config.EnableCassandraRepositories;
+import org.springframework.context.annotation.Bean;
+import com.opstree.microservice.salary.model.Employee;
+
 import java.time.Duration;
 
 import org.springframework.cache.annotation.EnableCaching;
